@@ -1,3 +1,4 @@
+package Hospital_Management_System;
 
 import javax.swing.*;
 import java.awt.*;
